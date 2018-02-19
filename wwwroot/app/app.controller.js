@@ -4,8 +4,8 @@
     angular.module('SampleApp')
         .controller('AppController', appController);
 
-    appController.$inject = ['MenuService'];
-    appController.$inject = ['NewMenuService'];
+    appController.$inject = ['MenuService', 'NewMenuService'];
+    //appController.$inject = ['NewMenuService'];
 
     function appController(MenuService, NewMenuService) {
         var vm = this;
@@ -13,7 +13,7 @@
 
         activate();
 
-        vm.getMenus = getNewMenus;
+        vm.getNewMenus = getNewMenus;
 
         function getMenus() {
             MenuService.getMenus().then(function (response) {
