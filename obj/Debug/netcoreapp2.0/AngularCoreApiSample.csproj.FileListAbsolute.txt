@@ -8,3 +8,13 @@ C:\Avinash\Learning\dotnetcore\AngularCoreApiSample\obj\Debug\netcoreapp2.0\Angu
 C:\Avinash\Learning\dotnetcore\AngularCoreApiSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.AssemblyInfo.cs
 C:\Avinash\Learning\dotnetcore\AngularCoreApiSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.dll
 C:\Avinash\Learning\dotnetcore\AngularCoreApiSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.pdb
+C:\Learning\angularDotnetcoreSample\bin\Debug\netcoreapp2.0\AngularCoreApiSample.deps.json
+C:\Learning\angularDotnetcoreSample\bin\Debug\netcoreapp2.0\AngularCoreApiSample.runtimeconfig.json
+C:\Learning\angularDotnetcoreSample\bin\Debug\netcoreapp2.0\AngularCoreApiSample.runtimeconfig.dev.json
+C:\Learning\angularDotnetcoreSample\bin\Debug\netcoreapp2.0\AngularCoreApiSample.dll
+C:\Learning\angularDotnetcoreSample\bin\Debug\netcoreapp2.0\AngularCoreApiSample.pdb
+C:\Learning\angularDotnetcoreSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.csproj.CoreCompileInputs.cache
+C:\Learning\angularDotnetcoreSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.AssemblyInfoInputs.cache
+C:\Learning\angularDotnetcoreSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.AssemblyInfo.cs
+C:\Learning\angularDotnetcoreSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.dll
+C:\Learning\angularDotnetcoreSample\obj\Debug\netcoreapp2.0\AngularCoreApiSample.pdb
