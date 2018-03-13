@@ -17,5 +17,12 @@ namespace AngularCoreApiSample.Controllers
             var menus = new[] { "Home", "About", "Products", "Partners", "Contact Us" };
             return Ok(menus);
         }
+
+        [HttpGet("api/Newmenus")]
+        public IActionResult NewMenus()
+        {
+            var menus = new[] { "A_Home", "A_About", "A_Products", "A_Partners", "A_Contact Us" };
+            return Ok(menus);
+        }
     }
 }

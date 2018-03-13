@@ -2,13 +2,13 @@
     'use strict';
 
     angular.module('app.services')
-    .factory('MenuService', menuService);
+    .factory('NewMenuService', NewmenuService);
 
-    menuService.$inject = ['$http']
+    NewmenuService.$inject = ['$http']
 
-    function menuService($http)
+    function NewmenuService($http)
     {
-        var baseUrl = "http://localhost:5000/api/menus";
+        var baseUrl = "http://localhost:5000/api/Newmenus";
 
         var menuService = {
             getMenus: getMenus
@@ -21,6 +21,4 @@
             return $http.get(baseUrl);
         }
     }
-
-   
 })();
